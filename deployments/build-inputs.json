@@ -1,0 +1,15 @@
+{
+  "rust": "1.91.0",
+  "target": "wasm32v1-none",
+  "profile": "release",
+  "sorobanSdk": "27.0.6",
+  "sourceSha256": {
+    "Cargo.toml": "e016a66da73d1a15d025a0a46ffcc6b0f87eba0cc450350dee9936067a4b626e",
+    "Cargo.lock": "dce83e624b9096b6d6ab63026e10577df8ea69be6875ffe26e48068e467faa61",
+    "rust-toolchain.toml": "acdc53d216afd6aa9f530e099900665ca3d6af2a2a1f86fdd663dbac52a67766",
+    "escrow/Cargo.toml": "f5a9f6b31506a6e1d15396f82a28339e6fb16191cb48fc7c54d56451f8ee9cd3",
+    "escrow/src/lib.rs": "022d24811287d472c248b2af581c33d28d414041cbe344b59baa78596fd31d71",
+    "test-token/Cargo.toml": "bf2bb33082bfe12f7460fc23074100615e4e2227efb15cc6fd0b44c73d3a4b58",
+    "test-token/src/lib.rs": "9e018b56712e5d0335a864d1f4a15fb1d716e1c35dc31c3b114f7281639c5751"
+  }
+}
