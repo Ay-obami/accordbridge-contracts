@@ -1,0 +1,22 @@
+{
+  "network": "testnet",
+  "escrow": "CB2QM2DSWHLPKPGWZB62SSIHUHXLZDQFFU3HFPHXEVY23NWCJPIABH2G",
+  "escrowWasmHash": "0d17ac8fb6495f2258d1707f72157b25f0fa7a4912a2c1691364b302267f86b9",
+  "tokenContract": "CDUMZP5TPU4GAMUL7MQOPJUO7M3HQ2VS6QXD33L6XA6Q4BH3FIRHL3P4",
+  "client": "GDQTGGER65BLJY3PLZJETOCXO37MFJRRHYH774CIYWP65NBCWVOSAPM7",
+  "freelancer": "GBILSTE7PBDP7BIRCBOQMZGPXBRNTA4XKLO4HKWNONKYOIGQFXMN63AL",
+  "termsHash": "6e7f18265839c1e36a5f9a1d0568c7d86bb82201034fafb7eb41d1c0d71e93d9",
+  "amountBaseUnits": "1500000000",
+  "unauthorizedReleaseRejected": true,
+  "finalStatus": "released",
+  "transactions": {
+    "deployment": "47313dda802a5d54ad4e6479ace3b93fe66ea3fca8aea7b0ad1b3a970b49a98b",
+    "faucet": "120d92ef4e412bf39fc47773086af36646b602de3c63229937ec0bfe43b39ffd",
+    "clientAcceptance": "507f67cedf2d24256c8bd7693ac3b4862c9e3c24233999ccdb7e8694f08e8894",
+    "freelancerAcceptance": "921e80a9c52f4836c793f7b22ca67240be7988ff01df992cc98772084d052ba9",
+    "funding": "2e96a4833ae80acef6d04d2b26ceeb43ed61bf201489946f7833ee61165f6c7f",
+    "unauthorizedRelease": "71cb8fc9c8302f88dd24dd83a359e6cfc4a7a12792a313b2fe1f0ead45928903",
+    "release": "6466b413ac2c307c779c099df27fbd5115471058fe0673fc8168de33f95dde41"
+  },
+  "checkedAt": "2026-10-08T19:38:49.466Z"
+}

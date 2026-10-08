@@ -1,0 +1,17 @@
+{
+  "network": "testnet",
+  "networkPassphrase": "Test SDF Network ; September 2015",
+  "rpc": "https://soroban-testnet.stellar.org",
+  "escrowWasmHash": "0d17ac8fb6495f2258d1707f72157b25f0fa7a4912a2c1691364b302267f86b9",
+  "tokenWasmHash": "47d4cdec1486c27f4826bd49764a09dd5eec1d7a5083be43820bca18905f45a3",
+  "tokenContract": "CDUMZP5TPU4GAMUL7MQOPJUO7M3HQ2VS6QXD33L6XA6Q4BH3FIRHL3P4",
+  "tokenSymbol": "ABUSD",
+  "tokenDecimals": 7,
+  "tokenHasMonetaryValue": false,
+  "uploadedAt": "2026-10-08T19:37:12.186Z",
+  "transactions": {
+    "escrowUpload": "d47991385232fa0670e4f5edf4574a9b2757a23f1603b358ea6aec5f3a9a4f8a",
+    "tokenUpload": "173a2a257722173cc6032c1d14801d73b9e2638ec1845aa6db55fd848336d943",
+    "tokenDeployment": "c02baffd392570fc2fb664ebb45617c99db152eac0f43436623c321742d5ca2c"
+  }
+}
